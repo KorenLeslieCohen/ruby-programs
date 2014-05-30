@@ -1,3 +1,5 @@
+#example of Mixin
+
 module StandardToolkit
 	def nails
 	 puts "The number of nails needed for this project is #{@nails}."
